@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'AwesomeCacheSlashAcceptable_Example', :exclusive => true do
+  pod "AwesomeCacheSlashAcceptable", :path => "../"
+end
+
+target 'AwesomeCacheSlashAcceptable_Tests', :exclusive => true do
+  pod "AwesomeCacheSlashAcceptable", :path => "../"
+
+  
+end

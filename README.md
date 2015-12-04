@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/AwesomeCacheSlashAcceptable.svg?style=flat)](http://cocoapods.org/pods/AwesomeCacheSlashAcceptable)
 [![Platform](https://img.shields.io/cocoapods/p/AwesomeCacheSlashAcceptable.svg?style=flat)](http://cocoapods.org/pods/AwesomeCacheSlashAcceptable)
 
+This is a forked library of AwesomeCache https://github.com/aschuch/AwesomeCache
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

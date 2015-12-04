@@ -1,0 +1,14 @@
+PODS:
+  - AwesomeCacheSlashAcceptable (0.1.0)
+
+DEPENDENCIES:
+  - AwesomeCacheSlashAcceptable (from `../`)
+
+EXTERNAL SOURCES:
+  AwesomeCacheSlashAcceptable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AwesomeCacheSlashAcceptable: 8ddd6df55a456b59d389e0d7a7918c14d43106da
+
+COCOAPODS: 0.39.0

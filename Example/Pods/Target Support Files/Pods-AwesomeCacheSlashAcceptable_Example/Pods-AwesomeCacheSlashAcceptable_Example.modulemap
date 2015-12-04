@@ -1,0 +1,6 @@
+framework module Pods_AwesomeCacheSlashAcceptable_Example {
+  umbrella header "Pods-AwesomeCacheSlashAcceptable_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

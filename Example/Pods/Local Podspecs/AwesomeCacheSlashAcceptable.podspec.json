@@ -1,0 +1,25 @@
+{
+  "name": "AwesomeCacheSlashAcceptable",
+  "version": "0.1.0",
+  "summary": "A short description of AwesomeCacheSlashAcceptable.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AwesomeCacheSlashAcceptable",
+  "license": "MIT",
+  "authors": {
+    "Ryo Kato": "katoryo55@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AwesomeCacheSlashAcceptable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AwesomeCacheSlashAcceptable": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

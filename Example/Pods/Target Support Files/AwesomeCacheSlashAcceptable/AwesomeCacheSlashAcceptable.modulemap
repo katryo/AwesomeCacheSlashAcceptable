@@ -1,0 +1,6 @@
+framework module AwesomeCacheSlashAcceptable {
+  umbrella header "AwesomeCacheSlashAcceptable-umbrella.h"
+
+  export *
+  module * { export * }
+}
